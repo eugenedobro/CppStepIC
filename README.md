@@ -1,2 +1,0 @@
-# CppStepIC
-C++ programming
